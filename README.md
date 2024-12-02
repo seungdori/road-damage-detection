@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # road-damage-detection
-=======
 # Road Damage Detection Model
 
 An advanced deep learning model for detecting and classifying road damage using EfficientNetV2 architecture. This project implements a comprehensive pipeline for training and evaluating road damage detection models with various optimizations for performance and accuracy.
@@ -41,7 +39,7 @@ tqdm
 
 ## Installation
 
-1. Clone this repository:
+1. Clone this repository: 
 ```bash
 git clone https://github.com/seungdori/road-damage-detection.git
 cd road-damage-detection
@@ -166,4 +164,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - EfficientNetV2 paper and implementation
 - TensorFlow team for mixed precision training support
 - Road damage dataset creators and contributors
->>>>>>> b4da64f (Initial commit)
